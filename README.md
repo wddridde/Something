@@ -1,4 +1,4 @@
 # Something
 Learning the ropes
 
-%n Finishing another step ;)
+Finishing another step ;)
